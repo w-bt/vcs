@@ -1,0 +1,40 @@
+﻿  Core.cpp
+Core.cpp(414): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(471): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(473): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(480): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(482): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(645): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(647): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1059): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1061): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1095): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(1149): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(1188): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1190): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1197): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1199): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1231): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(1293): warning C4244: '=' : conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+Core.cpp(1421): warning C4244: 'argument' : conversion from 'double' to 'mpir_ui', possible loss of data
+Core.cpp(1462): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1464): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1514): warning C4101: 'flag' : unreferenced local variable
+Core.cpp(1710): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Core.cpp(1711): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Core.cpp(1712): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Core.cpp(1713): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Core.cpp(1714): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Core.cpp(1730): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1734): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1737): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Core.cpp(1903): warning C4244: 'argument' : conversion from 'double' to 'mpir_ui', possible loss of data
+Core.cpp(1905): warning C4129: 'E' : unrecognized character escape sequence
+Core.cpp(1881): warning C4101: 'avWidthArea' : unreferenced local variable
+Core.cpp(1881): warning C4101: 'avHeightArea' : unreferenced local variable
+  Share.cpp
+  VCS.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  VCS.vcxproj -> C:\Users\Widhian\Documents\Visual Studio 2012\Projects\VCS\Release\VCS.exe
