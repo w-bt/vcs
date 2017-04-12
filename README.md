@@ -4,12 +4,8 @@
 
 A (2,2)-Visual Cryptography (single secret image) using C++ and openCV.
 
-M0 =
-[ 0, 0, 1, 1]
-[ 0, 0, 1, 1]
+M0 = [[ 0, 0, 1, 1], [ 0, 0, 1, 1]]
 
-M0 =
-[ 0, 0, 1, 1]
-[ 1, 1, 0, 0]
+M0 = [[ 0, 0, 1, 1], [ 1, 1, 0, 0]]
 
 For bulk image please visit: [AutoVCS](https://github.com/w-bt/autovcs)
